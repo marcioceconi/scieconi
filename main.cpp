@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
 
     w.setWindowState(Qt::WindowState::WindowMaximized);
     w.setWindowTitle("Gerenciamento de Documentos da Vigilância Sanitária");
-    w.setWindowIcon(QIcon(":/imagens/logo.jpg"));
+    w.setWindowIcon(QIcon(":/imagens/hospital.png"));
 
     w.show();
 

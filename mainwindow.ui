@@ -1,0 +1,1425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>899</width>
+    <height>593</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="resources.qrc">
+    <normaloff>:/imagens/hospital.ico</normaloff>:/imagens/hospital.ico</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QVBoxLayout" name="verticalLayout"/>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <property name="windowTitle">
+    <string>Barra de Ferramentas Principal</string>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
+   <property name="toolButtonStyle">
+    <enum>Qt::ToolButtonTextUnderIcon</enum>
+   </property>
+   <property name="floatable">
+    <bool>false</bool>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <widget class="QDockWidget" name="dockWidgetEstabelecimento">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Ignored" vsizetype="Preferred">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>378</width>
+     <height>117</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>524287</width>
+     <height>320</height>
+    </size>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QDockWidget {
+	background-color: rgb(170, 255, 127);
+}</string>
+   </property>
+   <property name="features">
+    <set>QDockWidget::AllDockWidgetFeatures</set>
+   </property>
+   <property name="windowTitle">
+    <string>ESTABELECIMENTO</string>
+   </property>
+   <attribute name="dockWidgetArea">
+    <number>1</number>
+   </attribute>
+   <widget class="QWidget" name="dockWidgetContents">
+    <layout class="QVBoxLayout" name="verticalLayout_2">
+     <item>
+      <widget class="QScrollArea" name="scrollArea">
+       <property name="widgetResizable">
+        <bool>true</bool>
+       </property>
+       <widget class="QWidget" name="scrollAreaWidgetContents">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>343</width>
+          <height>287</height>
+         </rect>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_3">
+         <item>
+          <widget class="QGroupBox" name="groupBox">
+           <property name="title">
+            <string>ESTABELECIMENTO AUTUADO</string>
+           </property>
+           <layout class="QVBoxLayout" name="verticalLayout_4">
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout">
+              <item>
+               <widget class="QLabel" name="label">
+                <property name="maximumSize">
+                 <size>
+                  <width>71</width>
+                  <height>16777215</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>CNPJ ou CPF:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="cnpjLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_2">
+              <item>
+               <widget class="QLabel" name="label_2">
+                <property name="maximumSize">
+                 <size>
+                  <width>101</width>
+                  <height>16777215</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Nome/Razão Social:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="razaoSocialLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_3">
+              <item>
+               <widget class="QLabel" name="label_3">
+                <property name="maximumSize">
+                 <size>
+                  <width>101</width>
+                  <height>16777215</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Ramo de Atividade:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="ramoLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_4">
+              <item>
+               <widget class="QLabel" name="label_4">
+                <property name="maximumSize">
+                 <size>
+                  <width>53</width>
+                  <height>16777215</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Endereço:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="enderecoLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_5">
+              <item>
+               <widget class="QLabel" name="label_5">
+                <property name="maximumSize">
+                 <size>
+                  <width>51</width>
+                  <height>16777215</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Município:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="cidadeLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_6">
+              <item>
+               <widget class="QLabel" name="label_6">
+                <property name="maximumSize">
+                 <size>
+                  <width>28</width>
+                  <height>16777215</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>CEP:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="cepLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_7">
+              <item>
+               <widget class="QLabel" name="label_7">
+                <property name="maximumSize">
+                 <size>
+                  <width>95</width>
+                  <height>16777215</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Número do Alvará:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="numAlvaraLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <spacer name="verticalSpacer">
+              <property name="orientation">
+               <enum>Qt::Vertical</enum>
+              </property>
+              <property name="sizeType">
+               <enum>QSizePolicy::Fixed</enum>
+              </property>
+              <property name="sizeHint" stdset="0">
+               <size>
+                <width>20</width>
+                <height>5</height>
+               </size>
+              </property>
+             </spacer>
+            </item>
+            <item>
+             <widget class="QPushButton" name="pushButtonLimparDockEstab">
+              <property name="minimumSize">
+               <size>
+                <width>75</width>
+                <height>23</height>
+               </size>
+              </property>
+              <property name="maximumSize">
+               <size>
+                <width>75</width>
+                <height>23</height>
+               </size>
+              </property>
+              <property name="text">
+               <string>Limpar</string>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <spacer name="verticalSpacer_2">
+              <property name="orientation">
+               <enum>Qt::Vertical</enum>
+              </property>
+              <property name="sizeHint" stdset="0">
+               <size>
+                <width>20</width>
+                <height>27</height>
+               </size>
+              </property>
+             </spacer>
+            </item>
+           </layout>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QDockWidget" name="dockWidgetAutuacao">
+   <property name="minimumSize">
+    <size>
+     <width>380</width>
+     <height>117</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>524287</width>
+     <height>320</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QDockWidget {
+	background-color:rgb(255, 186, 179);
+}</string>
+   </property>
+   <property name="windowTitle">
+    <string>AUTUAÇÃO</string>
+   </property>
+   <attribute name="dockWidgetArea">
+    <number>1</number>
+   </attribute>
+   <widget class="QWidget" name="dockWidgetContents_2">
+    <layout class="QVBoxLayout" name="verticalLayout_5">
+     <item>
+      <widget class="QScrollArea" name="scrollArea_2">
+       <property name="widgetResizable">
+        <bool>true</bool>
+       </property>
+       <widget class="QWidget" name="scrollAreaWidgetContents_2">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>343</width>
+          <height>287</height>
+         </rect>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_6">
+         <item>
+          <widget class="QGroupBox" name="groupBox_2">
+           <property name="title">
+            <string>INFORMAÇÕES DA AUTUAÇÃO</string>
+           </property>
+           <layout class="QVBoxLayout" name="verticalLayout_7">
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_8">
+              <item>
+               <widget class="QLabel" name="label_8">
+                <property name="minimumSize">
+                 <size>
+                  <width>150</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Setor(es) do Estabelecimento:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="setorEstabLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_9">
+              <item>
+               <widget class="QLabel" name="label_9">
+                <property name="minimumSize">
+                 <size>
+                  <width>144</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Número do Auto de Infração:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="numAutoLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_10">
+              <item>
+               <widget class="QLabel" name="label_10">
+                <property name="minimumSize">
+                 <size>
+                  <width>91</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Data da Autação:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QDateEdit" name="dateEditAutuacao">
+                <property name="maximumSize">
+                 <size>
+                  <width>101</width>
+                  <height>16777215</height>
+                 </size>
+                </property>
+                <property name="calendarPopup">
+                 <bool>true</bool>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <spacer name="horizontalSpacer">
+                <property name="orientation">
+                 <enum>Qt::Horizontal</enum>
+                </property>
+                <property name="sizeHint" stdset="0">
+                 <size>
+                  <width>40</width>
+                  <height>20</height>
+                 </size>
+                </property>
+               </spacer>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_11">
+              <item>
+               <widget class="QLabel" name="label_11">
+                <property name="minimumSize">
+                 <size>
+                  <width>95</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Data da Inspeção:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QDateEdit" name="dateEditInspecao">
+                <property name="maximumSize">
+                 <size>
+                  <width>101</width>
+                  <height>16777215</height>
+                 </size>
+                </property>
+                <property name="calendarPopup">
+                 <bool>true</bool>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <spacer name="horizontalSpacer_2">
+                <property name="orientation">
+                 <enum>Qt::Horizontal</enum>
+                </property>
+                <property name="sizeHint" stdset="0">
+                 <size>
+                  <width>40</width>
+                  <height>20</height>
+                 </size>
+                </property>
+               </spacer>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_12">
+              <item>
+               <widget class="QLabel" name="label_12">
+                <property name="minimumSize">
+                 <size>
+                  <width>105</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Horário da Inspeção:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QTimeEdit" name="horarioInspecaoTimeEdit">
+                <property name="maximumSize">
+                 <size>
+                  <width>61</width>
+                  <height>16777215</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <spacer name="horizontalSpacer_3">
+                <property name="orientation">
+                 <enum>Qt::Horizontal</enum>
+                </property>
+                <property name="sizeHint" stdset="0">
+                 <size>
+                  <width>40</width>
+                  <height>20</height>
+                 </size>
+                </property>
+               </spacer>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_13">
+              <item>
+               <widget class="QLabel" name="label_13">
+                <property name="minimumSize">
+                 <size>
+                  <width>141</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Nome do Servidor Autuante:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="nomeServidorLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_14">
+              <item>
+               <widget class="QLabel" name="label_14">
+                <property name="minimumSize">
+                 <size>
+                  <width>125</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>ID do Servidor Autuante:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="IDServidorLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <spacer name="verticalSpacer_3">
+              <property name="orientation">
+               <enum>Qt::Vertical</enum>
+              </property>
+              <property name="sizeType">
+               <enum>QSizePolicy::Fixed</enum>
+              </property>
+              <property name="sizeHint" stdset="0">
+               <size>
+                <width>20</width>
+                <height>5</height>
+               </size>
+              </property>
+             </spacer>
+            </item>
+            <item>
+             <widget class="QPushButton" name="pushButtonLimparDockAutuacao">
+              <property name="minimumSize">
+               <size>
+                <width>75</width>
+                <height>23</height>
+               </size>
+              </property>
+              <property name="maximumSize">
+               <size>
+                <width>75</width>
+                <height>23</height>
+               </size>
+              </property>
+              <property name="text">
+               <string>Limpar</string>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <spacer name="verticalSpacer_4">
+              <property name="orientation">
+               <enum>Qt::Vertical</enum>
+              </property>
+              <property name="sizeHint" stdset="0">
+               <size>
+                <width>20</width>
+                <height>173</height>
+               </size>
+              </property>
+             </spacer>
+            </item>
+           </layout>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QDockWidget" name="dockWidgetInterdicao">
+   <property name="minimumSize">
+    <size>
+     <width>380</width>
+     <height>117</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>524287</width>
+     <height>350</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QDockWidget {
+	background-color: rgb(255, 248, 144);
+}</string>
+   </property>
+   <property name="windowTitle">
+    <string>INTERDIÇÃO CAUTELAR</string>
+   </property>
+   <attribute name="dockWidgetArea">
+    <number>1</number>
+   </attribute>
+   <widget class="QWidget" name="dockWidgetContents_3">
+    <layout class="QVBoxLayout" name="verticalLayout_8">
+     <item>
+      <widget class="QScrollArea" name="scrollArea_3">
+       <property name="widgetResizable">
+        <bool>true</bool>
+       </property>
+       <widget class="QWidget" name="scrollAreaWidgetContents_3">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>343</width>
+          <height>315</height>
+         </rect>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_10">
+         <item>
+          <widget class="QGroupBox" name="groupBox_3">
+           <property name="title">
+            <string>INFORMAÇÕES DA INTERDIÇÃO CAUTELAR</string>
+           </property>
+           <layout class="QVBoxLayout" name="verticalLayout_9">
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_15">
+              <item>
+               <widget class="QLabel" name="label_15">
+                <property name="minimumSize">
+                 <size>
+                  <width>181</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Nº do Tempo de Interdição Cautelar:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="numTermoInterdCautelarLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_16">
+              <item>
+               <widget class="QLabel" name="label_16">
+                <property name="minimumSize">
+                 <size>
+                  <width>121</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Nº do Auto de Infração:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="numAutoInfracaoLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_18">
+              <item>
+               <widget class="QLabel" name="label_17">
+                <property name="minimumSize">
+                 <size>
+                  <width>141</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Data da Interdição Cautelar:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QDateEdit" name="dateEditInterdicaoCautelar">
+                <property name="calendarPopup">
+                 <bool>true</bool>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <spacer name="horizontalSpacer_4">
+                <property name="orientation">
+                 <enum>Qt::Horizontal</enum>
+                </property>
+                <property name="sizeHint" stdset="0">
+                 <size>
+                  <width>40</width>
+                  <height>20</height>
+                 </size>
+                </property>
+               </spacer>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_17">
+              <item>
+               <widget class="QLabel" name="label_18">
+                <property name="minimumSize">
+                 <size>
+                  <width>155</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Horário da Interdição Cautelar:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QTimeEdit" name="horarioInterdicaoCautelarTimeEdit">
+                <property name="calendarPopup">
+                 <bool>false</bool>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <spacer name="horizontalSpacer_5">
+                <property name="orientation">
+                 <enum>Qt::Horizontal</enum>
+                </property>
+                <property name="sizeHint" stdset="0">
+                 <size>
+                  <width>40</width>
+                  <height>20</height>
+                 </size>
+                </property>
+               </spacer>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_19">
+              <item>
+               <widget class="QLabel" name="label_19">
+                <property name="minimumSize">
+                 <size>
+                  <width>131</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Setor/Serviço Interditado:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="setorEstabDockInterdicaoLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_20">
+              <item>
+               <widget class="QLabel" name="label_20">
+                <property name="minimumSize">
+                 <size>
+                  <width>125</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Finalidade da Suspensão:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="finalidadeSuspensaoLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_21">
+              <item>
+               <widget class="QLabel" name="label_21">
+                <property name="minimumSize">
+                 <size>
+                  <width>141</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>Nome do Servidor Autuante:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="nomeServidorDockInterdicaoLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_22">
+              <item>
+               <widget class="QLabel" name="label_22">
+                <property name="minimumSize">
+                 <size>
+                  <width>125</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string>ID do Servidor Autuante:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="IDServidorDockInterdicaoLineEdit"/>
+              </item>
+             </layout>
+            </item>
+            <item>
+             <spacer name="verticalSpacer_5">
+              <property name="orientation">
+               <enum>Qt::Vertical</enum>
+              </property>
+              <property name="sizeType">
+               <enum>QSizePolicy::Fixed</enum>
+              </property>
+              <property name="sizeHint" stdset="0">
+               <size>
+                <width>20</width>
+                <height>5</height>
+               </size>
+              </property>
+             </spacer>
+            </item>
+            <item>
+             <widget class="QPushButton" name="pushButtonLimparDockInterdicao">
+              <property name="minimumSize">
+               <size>
+                <width>75</width>
+                <height>23</height>
+               </size>
+              </property>
+              <property name="maximumSize">
+               <size>
+                <width>75</width>
+                <height>23</height>
+               </size>
+              </property>
+              <property name="text">
+               <string>Limpar</string>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <spacer name="verticalSpacer_6">
+              <property name="orientation">
+               <enum>Qt::Vertical</enum>
+              </property>
+              <property name="sizeHint" stdset="0">
+               <size>
+                <width>20</width>
+                <height>0</height>
+               </size>
+              </property>
+             </spacer>
+            </item>
+           </layout>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>899</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuArquivo">
+    <property name="title">
+     <string>Arquivo</string>
+    </property>
+    <widget class="QMenu" name="menuDocumentoAvulso">
+     <property name="title">
+      <string>Proc. Adm. Sanitário</string>
+     </property>
+     <property name="icon">
+      <iconset resource="resources.qrc">
+       <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+     </property>
+     <addaction name="actionAutodeInfracaoSanitaria"/>
+     <addaction name="actionAutodeInfracaoSanitariaAnaliseFiscal"/>
+     <addaction name="separator"/>
+     <addaction name="actionTermodeInterdicaoCautelardeEstabelecimento"/>
+     <addaction name="actionTermodeInterdicaoCautelardeProdutos"/>
+     <addaction name="actionTermodeInterdicaoCautelardeProdutosSemAutuacaoPorDecisaoDVS"/>
+     <addaction name="separator"/>
+     <addaction name="actionTermoVinculadodeDesinterdicaodeEstabelecimentos"/>
+     <addaction name="actionTermoVinculadodeDesinterdicaodeProdutos"/>
+     <addaction name="separator"/>
+     <addaction name="actionTermodeColetadeAmostras"/>
+     <addaction name="separator"/>
+     <addaction name="actionTermodeInutilizacaoImediatadeProdutos"/>
+     <addaction name="separator"/>
+     <addaction name="actionNotificacaodeDesprovimentodeRecurso"/>
+     <addaction name="actionNotificacaodeParcialProvimentodeRecurso"/>
+     <addaction name="separator"/>
+     <addaction name="actionNotificacaodeImposicaodePenalidadeProcedenciadaAutuacao"/>
+     <addaction name="actionNotificacaodeImposicaodePenalidadeParcialProcedenciadaAutuacao"/>
+     <addaction name="actionNotificacaodeImposicaodePenadeMulta"/>
+     <addaction name="separator"/>
+     <addaction name="actionNotificacaodeDecisaoFinal"/>
+     <addaction name="separator"/>
+     <addaction name="actionNotificacaoParaPagamentodeMultaAposDecisaoFinal"/>
+     <addaction name="actionTermodeApreensaoeInutilizacaoAposDecisaoFinal"/>
+    </widget>
+    <addaction name="menuDocumentoAvulso"/>
+    <addaction name="actionRelatorioInspecao"/>
+    <addaction name="actionSalvar"/>
+    <addaction name="separator"/>
+    <addaction name="actionSair"/>
+   </widget>
+   <widget class="QMenu" name="menuEditar">
+    <property name="title">
+     <string>Editar</string>
+    </property>
+    <addaction name="actionDesfazer"/>
+    <addaction name="actionRefazer"/>
+    <addaction name="separator"/>
+    <addaction name="actionCopiar"/>
+    <addaction name="actionColar"/>
+    <addaction name="actionRecortar"/>
+   </widget>
+   <widget class="QMenu" name="menuCadastro">
+    <property name="title">
+     <string>Cadastro</string>
+    </property>
+    <addaction name="actionCadastroEquipe"/>
+   </widget>
+   <widget class="QMenu" name="menuConfigura_es">
+    <property name="title">
+     <string>Configurações</string>
+    </property>
+    <widget class="QMenu" name="menuLayout">
+     <property name="title">
+      <string>Layout</string>
+     </property>
+     <addaction name="actionResetarLayout"/>
+     <addaction name="separator"/>
+     <addaction name="actionExibir_Ocultar_Barra_de_Ferramentas_Principal"/>
+     <addaction name="actionExibir_Ocultar_Barra_de_Ferramentas_Roteiro"/>
+     <addaction name="separator"/>
+     <addaction name="actionExibir_Ocultar_DockEstab"/>
+     <addaction name="actionExibir_Ocultar_DockAutuacao"/>
+     <addaction name="actionExibir_Ocultar_DockInterdicaoCautelar"/>
+    </widget>
+    <addaction name="menuLayout"/>
+    <addaction name="actionCoder_XML"/>
+   </widget>
+   <widget class="QMenu" name="menuRoteiros_de_Inspe_o">
+    <property name="title">
+     <string>Roteiros de Inspeção</string>
+    </property>
+    <addaction name="actionCriarNovoRoteiro"/>
+    <addaction name="actionEditarRoteiroExistente"/>
+    <addaction name="actionExcluirRoteiroExistente"/>
+   </widget>
+   <widget class="QMenu" name="menuSobre">
+    <property name="title">
+     <string>Sobre</string>
+    </property>
+    <addaction name="actionSobre"/>
+    <addaction name="actionLicenca"/>
+    <addaction name="separator"/>
+    <addaction name="actionAboutQt"/>
+   </widget>
+   <addaction name="menuArquivo"/>
+   <addaction name="menuEditar"/>
+   <addaction name="menuCadastro"/>
+   <addaction name="menuConfigura_es"/>
+   <addaction name="menuRoteiros_de_Inspe_o"/>
+   <addaction name="menuSobre"/>
+  </widget>
+  <action name="actionSobre">
+   <property name="text">
+    <string>Sobre</string>
+   </property>
+  </action>
+  <action name="actionLicenca">
+   <property name="text">
+    <string>Licença</string>
+   </property>
+  </action>
+  <action name="actionAboutQt">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/qt.png</normaloff>:/imagens/qt.png</iconset>
+   </property>
+   <property name="text">
+    <string>Sobre o Qt</string>
+   </property>
+  </action>
+  <action name="actionCadastroEquipe">
+   <property name="text">
+    <string>Equipes (CRS/CEVS/Município)</string>
+   </property>
+  </action>
+  <action name="actionSalvar">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/save.jpg</normaloff>:/imagens/save.jpg</iconset>
+   </property>
+   <property name="text">
+    <string>Salvar</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+S</string>
+   </property>
+  </action>
+  <action name="actionCopiar">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/copy.png</normaloff>:/imagens/copy.png</iconset>
+   </property>
+   <property name="text">
+    <string>Copiar</string>
+   </property>
+  </action>
+  <action name="actionRecortar">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/cut.png</normaloff>:/imagens/cut.png</iconset>
+   </property>
+   <property name="text">
+    <string>Recortar</string>
+   </property>
+  </action>
+  <action name="actionColar">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/paste.png</normaloff>:/imagens/paste.png</iconset>
+   </property>
+   <property name="text">
+    <string>Colar</string>
+   </property>
+  </action>
+  <action name="actionDesfazer">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/undo.png</normaloff>:/imagens/undo.png</iconset>
+   </property>
+   <property name="text">
+    <string>Desfazer</string>
+   </property>
+  </action>
+  <action name="actionRefazer">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/redo.png</normaloff>:/imagens/redo.png</iconset>
+   </property>
+   <property name="text">
+    <string>Refazer</string>
+   </property>
+  </action>
+  <action name="actionSair">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/close.png</normaloff>:/imagens/close.png</iconset>
+   </property>
+   <property name="text">
+    <string>Sair</string>
+   </property>
+  </action>
+  <action name="actionRelatorioInspecao">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Relatório de Inspeção</string>
+   </property>
+  </action>
+  <action name="actionAutodeInfracaoSanitaria">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Auto de Infração Sanitária</string>
+   </property>
+  </action>
+  <action name="actionAutodeInfracaoSanitariaAnaliseFiscal">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Auto de Infração Sanitária - Análise Fiscal</string>
+   </property>
+  </action>
+  <action name="actionTermodeInterdicaoCautelardeEstabelecimento">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Termo de Interdição Cautelar de Estabelecimento</string>
+   </property>
+  </action>
+  <action name="actionTermodeInterdicaoCautelardeProdutos">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Termo de Interdição Cautelar de Produtos e/ou Substâncias</string>
+   </property>
+  </action>
+  <action name="actionTermodeInterdicaoCautelardeProdutosSemAutuacaoPorDecisaoDVS">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Termo de Interdição Cautelar de Produtos e/ou Substâncias SEM AUTUAÇÃO (POR DECISÃO DA DVS)</string>
+   </property>
+  </action>
+  <action name="actionTermoVinculadodeDesinterdicaodeEstabelecimentos">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Termo Vinculado de Desinterdição de Estabelecimentos</string>
+   </property>
+  </action>
+  <action name="actionTermoVinculadodeDesinterdicaodeProdutos">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Termo Vinculado de Desinterdição de Produtos e/ou Substâncias</string>
+   </property>
+  </action>
+  <action name="actionTermodeColetadeAmostras">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Termo de Coleta de Amostras</string>
+   </property>
+  </action>
+  <action name="actionTermodeInutilizacaoImediatadeProdutos">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Termo de Inutilização Imediata de Produtos</string>
+   </property>
+  </action>
+  <action name="actionNotificacaodeDesprovimentodeRecurso">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Notificação de Desprovimento de Recurso</string>
+   </property>
+  </action>
+  <action name="actionNotificacaodeParcialProvimentodeRecurso">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Notificação de Parcial Provimento de Recurso</string>
+   </property>
+  </action>
+  <action name="actionNotificacaodeImposicaodePenalidadeParcialProcedenciadaAutuacao">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Notificação de Imposição de Penalidade - Parcial Procedência da Autuação</string>
+   </property>
+  </action>
+  <action name="actionNotificacaodeImposicaodePenalidadeProcedenciadaAutuacao">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Notificação de Imposição de Penalidade - Procedência da Autuação</string>
+   </property>
+  </action>
+  <action name="actionNotificacaodeImposicaodePenadeMulta">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Notificação de Imposição de Pena de Multa</string>
+   </property>
+  </action>
+  <action name="actionNotificacaodeDecisaoFinal">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Notificação de Decisão Final</string>
+   </property>
+  </action>
+  <action name="actionNotificacaoParaPagamentodeMultaAposDecisaoFinal">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Notificação para Pagamento de Multa APÓS DECISÃO FINAL</string>
+   </property>
+  </action>
+  <action name="actionTermodeApreensaoeInutilizacaoAposDecisaoFinal">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Termo de Apreensão e Inutilização APÓS DECISÃO FINAL</string>
+   </property>
+  </action>
+  <action name="actionAvisodeRecebimento">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>AR (Aviso de Recebimento para Envio via Correios)</string>
+   </property>
+  </action>
+  <action name="actionDespachoParaAR">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Despacho para Inclusão de AR no Processo</string>
+   </property>
+  </action>
+  <action name="actionArquivamentodeProcesso">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Arquivamento de Processo</string>
+   </property>
+  </action>
+  <action name="actionResetarLayout">
+   <property name="text">
+    <string>Resetar Layout</string>
+   </property>
+  </action>
+  <action name="actionRoteiros_de_Inspecao">
+   <property name="text">
+    <string>Roteiros de Inspeção</string>
+   </property>
+  </action>
+  <action name="actionCriarNovoRoteiro">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/plus.png</normaloff>:/imagens/plus.png</iconset>
+   </property>
+   <property name="text">
+    <string>Criar Novo Roteiro</string>
+   </property>
+  </action>
+  <action name="actionEditarRoteiroExistente">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/edit.png</normaloff>:/imagens/edit.png</iconset>
+   </property>
+   <property name="text">
+    <string>Editar Roteiro Existente</string>
+   </property>
+  </action>
+  <action name="actionExcluirRoteiroExistente">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/delete.png</normaloff>:/imagens/delete.png</iconset>
+   </property>
+   <property name="text">
+    <string>Excluir Roteiro Existente</string>
+   </property>
+  </action>
+  <action name="actionExibir_Ocultar_DockEstab">
+   <property name="text">
+    <string>Exibir/Ocultar QDockWidget ESTABELECIMENTO</string>
+   </property>
+  </action>
+  <action name="actionExibir_Ocultar_DockAutuacao">
+   <property name="text">
+    <string>Exibir/Ocultar QDockWidget AUTUAÇÃO</string>
+   </property>
+  </action>
+  <action name="actionExibir_Ocultar_DockInterdicaoCautelar">
+   <property name="text">
+    <string>Exibir/Ocultar QDockWidget INTERDIÇÃO CAUTELAR</string>
+   </property>
+  </action>
+  <action name="actionExibir_Ocultar_Barra_de_Ferramentas_Principal">
+   <property name="text">
+    <string>Exibir/Ocultar Barra de Ferramentas Principal</string>
+   </property>
+  </action>
+  <action name="actionCoder_XML">
+   <property name="text">
+    <string>Coder XML</string>
+   </property>
+  </action>
+  <action name="actionProcAdmSanitario">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Proc. Adm. Sanitário</string>
+   </property>
+   <property name="toolTip">
+    <string>Proc. Adm. Sanitário</string>
+   </property>
+  </action>
+  <action name="actionNovo">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/new.png</normaloff>:/imagens/new.png</iconset>
+   </property>
+   <property name="text">
+    <string>Novo</string>
+   </property>
+  </action>
+  <action name="actionNovoItem">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/plus.png</normaloff>:/imagens/plus.png</iconset>
+   </property>
+   <property name="text">
+    <string>Novo Item</string>
+   </property>
+  </action>
+  <action name="actionNovoGrupo">
+   <property name="icon">
+    <iconset resource="resources.qrc">
+     <normaloff>:/imagens/plus.png</normaloff>:/imagens/plus.png</iconset>
+   </property>
+   <property name="text">
+    <string>Novo Grupo</string>
+   </property>
+  </action>
+  <action name="actionExibir_Ocultar_Barra_de_Ferramentas_Roteiro">
+   <property name="text">
+    <string>Exibir/Ocultar Barra de Ferramentas Roteiro</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

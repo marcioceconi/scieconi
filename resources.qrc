@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagens/alert.png</file>
+        <file>imagens/alfa.png</file>
+        <file>imagens/close.png</file>
+        <file>imagens/copy.png</file>
+        <file>imagens/cut.png</file>
+        <file>imagens/delete.png</file>
+        <file>imagens/emoticon.png</file>
+        <file>imagens/icone.png</file>
+        <file>imagens/logo.jpg</file>
+        <file>imagens/new.png</file>
+        <file>imagens/open.png</file>
+        <file>imagens/paste.png</file>
+        <file>imagens/plus.png</file>
+        <file>imagens/redo.png</file>
+        <file>imagens/save.jpg</file>
+        <file>imagens/undo.png</file>
+        <file>imagens/qt.png</file>
+        <file>imagens/brasao.gif</file>
+        <file>imagens/down.png</file>
+        <file>imagens/up.png</file>
+        <file>imagens/checked.png</file>
+        <file>imagens/unchecked.png</file>
+        <file>imagens/search.png</file>
+        <file>imagens/edit.png</file>
+        <file>imagens/logo.ico</file>
+        <file>imagens/hospital.ico</file>
+        <file>imagens/hospital.png</file>
+    </qresource>
+</RCC>

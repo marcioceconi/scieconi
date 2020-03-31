@@ -1,80 +1,84 @@
-﻿GRUPO 1|Ausência de um exemplar da Portaria Federal nº 453/1998-MS no serviço| art. 6º e item 3.25, subitem “r”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Os responsáveis dificultaram o acesso da Vigilância Sanitária às dependências do serviço| item 1.6 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|O serviço não dispõe dos assentamentos ou documentos obrigatórios| itens 1.6 e 3.51 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|O serviço recusou-se a fornecer acesso aos assentamentos ou documentos obrigatórios à Vigilância Sanitária| itens 1.6 e 3.51, subitem “f”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Comercialização de equipamentos de raios-x, componentes ou acessórios de proteção radiológica sem registro no Ministério da Saúde| item 3.2 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Fazer funcionar serviço de radiodiagnóstico sem licença sanitária da autoridade competente| itens 3.4 e 3.14 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de projeto arquitetônico aprovado pela Vigilância Sanitária| itens 3.5, subitem “a”, 3.6 e 3.15 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Não dispõe de cópia do projeto arquitetônico aprovado| item 3.15 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Realizou modificações nas dependências do serviço ou nos equipamentos de raios-x sem notificar a autoridade sanitária competente para aprovação de projeto| item 3.12 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de Levantamento Radiométrico vigente| itens 3.13, 3.43 e 3.51, subitem “c”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|O alvará sanitário não está disposto em local visível ao público| item 3.14 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Desativou equipamento de raios-x sem notificar a autoridade sanitária competente para solicitação de baixa de responsabilidade e notificação sobre o destino dado ao equipamento| itens 3.16 e 3.17 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de Supervisor de Proteção Radiológica no serviço| itens 3.19 e 3.25, subitem “c”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|O Supervisor de Proteção Radiológica não possui capacitação adequada para execução de suas responsabilidades| itens 3.19, subitem “a”, e 3.35 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de Responsável Técnico para responder pelos procedimentos radiológicos no serviço| itens 3.20 e 3.25, subitem “d”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|O Responsável Técnico não possui capacitação adequada para as atividades que lhe competem| itens 3.20, subitem “a”, e 3.34 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|O Responsável Técnico é responsável por mais de dois serviços| item 3.20, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de profissionais em número e com qualificação para condução dos procedimentos radiológicos| item 3.25, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|O serviço não toma as medidas necessárias para evitar falhas e erros, incluindo a implementação de procedimentos adequados de calibração, controle de qualidade e operação dos equipamentos de raios-x| itens 3.25, subitem “e”, 3.27, subitem “b”, e 3.55 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 2|O serviço não executa ações de controle de qualidade dos equipamentos de raios-x| itens 3.25, subitem “e”, 3.27, subitem “b”, 3.51, subitem “b”, e 3.55 a 3.59 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 3|Os equipamentos utilizados para medição dos níveis de radiação em levantamentos radiométricos e dosimetria de feixe não são calibrados com a periodicidade mínima de 2 anos em laboratório da CNEN ou reconhecido pela CNEN| item 3.60 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 3|Ausência de programa de treinamento periódico da equipe| itens 3.25, subitem “f”, 3.26, subitem “j”, 3.29, subitem “c”, 3.38 e 3.51, subitem “e”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 4|Ausência de monitoração individual para os profissionais ocupacionalmente expostos| itens 3.25, subitem “l”, 3.29, subitem “e”, 3.47, subitens “a” e “b”, e 3.51, subitem “d”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 4|Os dosímetros não são de uso exclusivo de cada usuário do serviço| item 3.47, subitem “f”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 4|Os dosímetros individuais não são armazenados em local seguro, com temperatura amena, umidade baixa e afastados de fontes de radiação ionizante, junto ao dosímetro padrão| item 3.47, subitem “g”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 4|Os dosímetros não são armazenados junto ao dosímetro padrão| item 3.47, subitem “g”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 4|Os titulares não tomam as medidas necessárias para garantir que, para indivíduos que trabalham em mais de um serviço, a soma das exposições ocupacionais não ultrapasse os limites regulamentares| item 3.47, subitem “j”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 4|Ausência de controle de saúde dos profissionais ocupacionalmente expostos| itens 3.25, subitem “l”, e 3.48, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 2|Ausência de vestimentas de proteção individual em número mínimo para proteção dos pacientes, da equipe e de eventuais acompanhantes| itens 3.25, subitens “k” e “m”, 3.27, subitem “b”, 3.50, subitem “a”, e 4.3, subitem “g”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 2|Ausência de suporte adequado para as vestimentas de proteção individual| item 4.3, subitem “g”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 2|Membro da equipe não estava utilizando dosímetro individual| item 3.29, subitem “e”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 2|Membro da equipe não estava utilizando vestimentas de proteção individual| item 3.29, subitem “e”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 2|Ausência de manutenção periódica dos equipamentos de raios-x| itens 3.25, subitens “e” e “n”, 3.28, subitem “e”, e 3.55, subitem “c”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 2|Ausência dos procedimentos operacionais escritos, atualizados e disponíveis à equipe| itens 3.25, subitem “o”, 3.26, subitem “h”, 3.27, subitem “e”, 3.28, subitens “d” e “e”, e 3.51, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 2|Ausência dos assentamentos de monitoração individual| itens 3.26, subitem “g”, e 3.51, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 2|Ausência de investigação em caso de exposição elevada| itens 3.26, subitem “i”, e 3.47, subitens “h” e “i”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 3|Ausência de um protocolo de técnicas radiográficas (tabela de exposição) junto ao painel de controle do equipamento de raios-x| itens 3.27, subitem “c”, e 4.4 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 3|Ausência de avaliação do índice de rejeição de radiografias| item 3.28, subitem “c”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 3|O indivíduo que administra radiações ionizantes não tem a qualificação mínima exigida| itens 3.32, 3.34, 3.35 e 3.36 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 3|Ausência de blindagem adequada na sala ou na área de comando| itens 3.41, subitem “a”, 3.52, subitem “g”, e 4.3, subitens “a” e “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 3|A blindagem na parede é inferior a 210 cm de altura do piso| item 4.3, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 3|A blindagem não é contínua e sem falhas| item 4.3, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 3|A superfície de chumbo da blindagem não é coberta por outro material protetor| item 4.3, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 3|Ausência de cabine de comando com dimensões e blindagem que proporcione atenuação suficiente para garantir a proteção do operador| item 4.3, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|A cabine de comando não possui blindagem com altura mínima de 210 cm do piso| item 4.3, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|O operador não tem eficaz observação visual do paciente na posição de disparo do equipamento de raios-x| item 4.3, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|O posicionamento da cabine não permite que o operador possa ver se algum indivíduo entrou na sala durante as exposições| item 4.3, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Presença de acompanhante durante a realização do exame sem necessidade| item 3.50, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|O equipamento de raios-x não possui dispositivo que corte automaticamente a irradiação ao final do tempo, dose ou produto corrente-tempo selecionados| itens 3.52, subitens “a” e “h”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|O botão disparador do equipamento de raios-x não permite a interrupção da exposição a qualquer momento dentro do intervalo selecionado| itens 3.52, subitens “a” e “i”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de certificação da blindagem do cabeçote quanto à radiação de fuga do equipamento de raios-x| itens 3.52, subitem “b”,  e 4.13, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de sinal sonoro no equipamento indicativo do acionamento do feixe de raios-x| item 3.52, subitem “f”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de sinal luminoso no painel de controle do equipamento indicativo do acionamento do feixe de raios-x| item 3.52, subitem “f”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de sinalização na face exterior das portas de acesso contendo o símbolo internacional da radiação ionizante, acompanhado das inscrições “raios-x, entrada restrita” ou “raios-x, entrada proibida a pessoas não autorizadas”| item 4.3, subitem “c”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de sinalização luminosa vermelha na face externa da porta de acesso, acompanhada da advertência “Quando a luz vermelha estiver acessa, a entrada é proibida”| item 4.3, subitem “d”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de quadro em local visível com a orientação “Não é permitida a permanência de acompanhantes na sala durante o exame radiológico, salvo quando estritamente necessário e autorizado”| item 4.3, subitem “e”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de quadro em local visível com a orientação “Acompanhante, quando houver necessidade de contenção de paciente, exija e use corretamente vestimenta plumbífera para sua proteção”| item 4.3, subitem “e”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de quadro no interior da sala com o aviso “Nesta sala somente pode permanecer um paciente de cada vez”| item 4.3, subitem “f”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de quadro com o aviso “Mulheres grávidas ou com suspeita de gravidez: favor informarem ao médico ou ao técnico antes do exame”| item 4.7 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|A sala de raios-x possui itens diversos dispensáveis à finalidade da mesma| item 4.5 da  Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Presença de mais de um equipamento de raios-x na mesma sala| item 4.6 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|A câmara escura não possui a vedação apropriada contra luz do dia ou artificial| item 4.9, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|A câmara escura não possui dimensão apropriada à quantidade de radiografias e ao fluxo de atividades do serviço| item 4.9, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|A câmara escura não possui sistema de exaustão de ar de forma a manter uma pressão positiva no ambiente| item 4.9, subitem “d”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|A câmara escura não possui paredes com revestimento resistente à ação das substâncias químicas utilizados, junto aos locais onde possam ocorrer respingos destas substâncias| item 4.9, subitem “e”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|A câmara escura não possui piso anticorrosivo, impermeável e antiderrapante| item 4.9, subitem “f”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|A câmara escura não dispõe de sistema de iluminação de segurança com lâmpadas e filtros apropriados aos tipos de filmes utilizados| item 4.9, subitem “g”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|A câmara escura para revelação manual não dispõe de cronômetro, termômetro e tabela de revelação| item 4.10 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Os filmes radiográficos não são armazenados na posição vertical| item 4.11, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Os filmes radiográficos não são armazenados afastados de fontes de radiação| item 4.11, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Os filmes radiográficos não são armazenados em condições de temperatura e umidade compatíveis com as especificações do fabricante| item 4.11, subitem “c”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|A iluminação da sala de interpretação de laudos permite a ocorrência de reflexos nos negatoscópio| item 4.12 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de mecanismo apropriado de colimação do feixe de raios-x para a área de interesse| item 4.13, subitem “d”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de cabo disparador com comprimento mínimo de 2 metros para equipamentos móveis| item 4.13, subitem “g”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|O equipamento de radiografia convencional possui gerador do tipo auto-retificado ou de retificação de meia onda| item 4.14 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de indicação clara de quando se utiliza controle automático de exposição para equipamentos que possuem este sistema| item 4.15 da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de sistema de intensificação de imagem em equipamento de Fluoroscopia| item 4.17, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de dispositivo para selecionar o tempo acumulado de Fluoroscopia| item 4.17, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de cortina ou saiote plumbífero inferior/lateral para proteção do operador em equipamento de Fluoroscopia| item 4.17, subitem “d”, da Portaria Federal MS nº 453 de 01 de junho de 1998
-GRUPO 1|Ausência de sinal sonoro contínuo quando o controle de “alto nível” do equipamento de fluoroscopia é acionado| item 4.17, subitem “g”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+﻿grupo|GRUPO 1
+item|Ausência de um exemplar da Portaria Federal nº 453/1998-MS no serviço| art. 6º e item 3.25, subitem “r”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Os responsáveis dificultaram o acesso da Vigilância Sanitária às dependências do serviço| item 1.6 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|O serviço não dispõe dos assentamentos ou documentos obrigatórios| itens 1.6 e 3.51 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|O serviço recusou-se a fornecer acesso aos assentamentos ou documentos obrigatórios à Vigilância Sanitária| itens 1.6 e 3.51, subitem “f”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Comercialização de equipamentos de raios-x, componentes ou acessórios de proteção radiológica sem registro no Ministério da Saúde| item 3.2 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Fazer funcionar serviço de radiodiagnóstico sem licença sanitária da autoridade competente| itens 3.4 e 3.14 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de projeto arquitetônico aprovado pela Vigilância Sanitária| itens 3.5, subitem “a”, 3.6 e 3.15 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Não dispõe de cópia do projeto arquitetônico aprovado| item 3.15 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Realizou modificações nas dependências do serviço ou nos equipamentos de raios-x sem notificar a autoridade sanitária competente para aprovação de projeto| item 3.12 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de Levantamento Radiométrico vigente| itens 3.13, 3.43 e 3.51, subitem “c”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|O alvará sanitário não está disposto em local visível ao público| item 3.14 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Desativou equipamento de raios-x sem notificar a autoridade sanitária competente para solicitação de baixa de responsabilidade e notificação sobre o destino dado ao equipamento| itens 3.16 e 3.17 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de Supervisor de Proteção Radiológica no serviço| itens 3.19 e 3.25, subitem “c”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|O Supervisor de Proteção Radiológica não possui capacitação adequada para execução de suas responsabilidades| itens 3.19, subitem “a”, e 3.35 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de Responsável Técnico para responder pelos procedimentos radiológicos no serviço| itens 3.20 e 3.25, subitem “d”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|O Responsável Técnico não possui capacitação adequada para as atividades que lhe competem| itens 3.20, subitem “a”, e 3.34 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|O Responsável Técnico é responsável por mais de dois serviços| item 3.20, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de profissionais em número e com qualificação para condução dos procedimentos radiológicos| item 3.25, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|O serviço não toma as medidas necessárias para evitar falhas e erros, incluindo a implementação de procedimentos adequados de calibração, controle de qualidade e operação dos equipamentos de raios-x| itens 3.25, subitem “e”, 3.27, subitem “b”, e 3.55 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|A cabine de comando não possui blindagem com altura mínima de 210 cm do piso| item 4.3, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|O operador não tem eficaz observação visual do paciente na posição de disparo do equipamento de raios-x| item 4.3, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|O posicionamento da cabine não permite que o operador possa ver se algum indivíduo entrou na sala durante as exposições| item 4.3, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Presença de acompanhante durante a realização do exame sem necessidade| item 3.50, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|O equipamento de raios-x não possui dispositivo que corte automaticamente a irradiação ao final do tempo, dose ou produto corrente-tempo selecionados| itens 3.52, subitens “a” e “h”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|O botão disparador do equipamento de raios-x não permite a interrupção da exposição a qualquer momento dentro do intervalo selecionado| itens 3.52, subitens “a” e “i”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de certificação da blindagem do cabeçote quanto à radiação de fuga do equipamento de raios-x| itens 3.52, subitem “b”,  e 4.13, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de sinal sonoro no equipamento indicativo do acionamento do feixe de raios-x| item 3.52, subitem “f”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de sinal luminoso no painel de controle do equipamento indicativo do acionamento do feixe de raios-x| item 3.52, subitem “f”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+grupo|GRUPO 2
+item|Ausência de sinalização na face exterior das portas de acesso contendo o símbolo internacional da radiação ionizante, acompanhado das inscrições “raios-x, entrada restrita” ou “raios-x, entrada proibida a pessoas não autorizadas”| item 4.3, subitem “c”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de sinalização luminosa vermelha na face externa da porta de acesso, acompanhada da advertência “Quando a luz vermelha estiver acessa, a entrada é proibida”| item 4.3, subitem “d”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de quadro em local visível com a orientação “Não é permitida a permanência de acompanhantes na sala durante o exame radiológico, salvo quando estritamente necessário e autorizado”| item 4.3, subitem “e”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de quadro em local visível com a orientação “Acompanhante, quando houver necessidade de contenção de paciente, exija e use corretamente vestimenta plumbífera para sua proteção”| item 4.3, subitem “e”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de quadro no interior da sala com o aviso “Nesta sala somente pode permanecer um paciente de cada vez”| item 4.3, subitem “f”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de quadro com o aviso “Mulheres grávidas ou com suspeita de gravidez: favor informarem ao médico ou ao técnico antes do exame”| item 4.7 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|A sala de raios-x possui itens diversos dispensáveis à finalidade da mesma| item 4.5 da  Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Presença de mais de um equipamento de raios-x na mesma sala| item 4.6 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|A câmara escura não possui a vedação apropriada contra luz do dia ou artificial| item 4.9, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|A câmara escura não possui dimensão apropriada à quantidade de radiografias e ao fluxo de atividades do serviço| item 4.9, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|A câmara escura não possui sistema de exaustão de ar de forma a manter uma pressão positiva no ambiente| item 4.9, subitem “d”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|A câmara escura não possui paredes com revestimento resistente à ação das substâncias químicas utilizados, junto aos locais onde possam ocorrer respingos destas substâncias| item 4.9, subitem “e”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|A câmara escura não possui piso anticorrosivo, impermeável e antiderrapante| item 4.9, subitem “f”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|A câmara escura não dispõe de sistema de iluminação de segurança com lâmpadas e filtros apropriados aos tipos de filmes utilizados| item 4.9, subitem “g”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|A câmara escura para revelação manual não dispõe de cronômetro, termômetro e tabela de revelação| item 4.10 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Os filmes radiográficos não são armazenados na posição vertical| item 4.11, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Os filmes radiográficos não são armazenados afastados de fontes de radiação| item 4.11, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Os filmes radiográficos não são armazenados em condições de temperatura e umidade compatíveis com as especificações do fabricante| item 4.11, subitem “c”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|A iluminação da sala de interpretação de laudos permite a ocorrência de reflexos nos negatoscópio| item 4.12 da Portaria Federal MS nº 453 de 01 de junho de 1998
+grupo|GRUPO 3
+item|Ausência de mecanismo apropriado de colimação do feixe de raios-x para a área de interesse| item 4.13, subitem “d”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de cabo disparador com comprimento mínimo de 2 metros para equipamentos móveis| item 4.13, subitem “g”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|O equipamento de radiografia convencional possui gerador do tipo auto-retificado ou de retificação de meia onda| item 4.14 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de indicação clara de quando se utiliza controle automático de exposição para equipamentos que possuem este sistema| item 4.15 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de sistema de intensificação de imagem em equipamento de Fluoroscopia| item 4.17, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de dispositivo para selecionar o tempo acumulado de Fluoroscopia| item 4.17, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de cortina ou saiote plumbífero inferior/lateral para proteção do operador em equipamento de Fluoroscopia| item 4.17, subitem “d”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de sinal sonoro contínuo quando o controle de “alto nível” do equipamento de fluoroscopia é acionado| item 4.17, subitem “g”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|O serviço não executa ações de controle de qualidade dos equipamentos de raios-x| itens 3.25, subitem “e”, 3.27, subitem “b”, 3.51, subitem “b”, e 3.55 a 3.59 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de vestimentas de proteção individual em número mínimo para proteção dos pacientes, da equipe e de eventuais acompanhantes| itens 3.25, subitens “k” e “m”, 3.27, subitem “b”, 3.50, subitem “a”, e 4.3, subitem “g”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de suporte adequado para as vestimentas de proteção individual| item 4.3, subitem “g”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Membro da equipe não estava utilizando dosímetro individual| item 3.29, subitem “e”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Membro da equipe não estava utilizando vestimentas de proteção individual| item 3.29, subitem “e”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de manutenção periódica dos equipamentos de raios-x| itens 3.25, subitens “e” e “n”, 3.28, subitem “e”, e 3.55, subitem “c”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência dos procedimentos operacionais escritos, atualizados e disponíveis à equipe| itens 3.25, subitem “o”, 3.26, subitem “h”, 3.27, subitem “e”, 3.28, subitens “d” e “e”, e 3.51, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência dos assentamentos de monitoração individual| itens 3.26, subitem “g”, e 3.51, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de investigação em caso de exposição elevada| itens 3.26, subitem “i”, e 3.47, subitens “h” e “i”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+grupo|GRUPO 4
+item|Os equipamentos utilizados para medição dos níveis de radiação em levantamentos radiométricos e dosimetria de feixe não são calibrados com a periodicidade mínima de 2 anos em laboratório da CNEN ou reconhecido pela CNEN| item 3.60 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de programa de treinamento periódico da equipe| itens 3.25, subitem “f”, 3.26, subitem “j”, 3.29, subitem “c”, 3.38 e 3.51, subitem “e”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de um protocolo de técnicas radiográficas (tabela de exposição) junto ao painel de controle do equipamento de raios-x| itens 3.27, subitem “c”, e 4.4 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de avaliação do índice de rejeição de radiografias| item 3.28, subitem “c”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|O indivíduo que administra radiações ionizantes não tem a qualificação mínima exigida| itens 3.32, 3.34, 3.35 e 3.36 da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de blindagem adequada na sala ou na área de comando| itens 3.41, subitem “a”, 3.52, subitem “g”, e 4.3, subitens “a” e “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|A blindagem na parede é inferior a 210 cm de altura do piso| item 4.3, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|A blindagem não é contínua e sem falhas| item 4.3, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|A superfície de chumbo da blindagem não é coberta por outro material protetor| item 4.3, subitem “a”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de cabine de comando com dimensões e blindagem que proporcione atenuação suficiente para garantir a proteção do operador| item 4.3, subitem “b”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de monitoração individual para os profissionais ocupacionalmente expostos| itens 3.25, subitem “l”, 3.29, subitem “e”, 3.47, subitens “a” e “b”, e 3.51, subitem “d”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Os dosímetros não são de uso exclusivo de cada usuário do serviço| item 3.47, subitem “f”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Os dosímetros individuais não são armazenados em local seguro, com temperatura amena, umidade baixa e afastados de fontes de radiação ionizante, junto ao dosímetro padrão| item 3.47, subitem “g”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Os dosímetros não são armazenados junto ao dosímetro padrão| item 3.47, subitem “g”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Os titulares não tomam as medidas necessárias para garantir que, para indivíduos que trabalham em mais de um serviço, a soma das exposições ocupacionais não ultrapasse os limites regulamentares| item 3.47, subitem “j”, da Portaria Federal MS nº 453 de 01 de junho de 1998
+item|Ausência de controle de saúde dos profissionais ocupacionalmente expostos| itens 3.25, subitem “l”, e 3.48, da Portaria Federal MS nº 453 de 01 de junho de 1998

@@ -64,28 +64,24 @@ void AutodeInfracao::setupRoteiroLayout(int index)
     QStringList colunas;
     while (!inRot.atEnd()) {
         line = inRot.readLine();
+        colunas.clear();
         colunas = line.split("|");
-        listaGruposRoteiro.append(colunas[0]);
-        listaIrregRoteiro.append(colunas[1]);
-        listaDispoRoteiro.append(colunas[2]);
-    }
-
-    arq.close();
-
-    QString grupoAnt;
-    grupoAnt = "DEFAULT";
-    for (int i=0; i<listaGruposRoteiro.count(); i++) {
-        if (QString::compare(listaGruposRoteiro[i], grupoAnt) != STR_EQUAL) {
-            QLabel *labelGrupo = new QLabel(listaGruposRoteiro[i]);
+        if (colunas[0] == "grupo") { // Grupo
+            listaGruposRoteiro.append(colunas[1]);
+            QLabel *labelGrupo = new QLabel(colunas[1]);
             labelGrupo->setFixedHeight(31);
             labelGrupo->setStyleSheet("QLabel{border: 1px solid black; font-size: 11pt; font-weight: bold; background-color: rgb(82,240,0);}");
             vboxScrollIrreg->addWidget(labelGrupo);
+        } else if (colunas[0] == "item") { // Item
+            listaIrregRoteiro.append(colunas[1]);
+            listaDispoRoteiro.append(colunas[2]);
+            QCheckBox *checkItem = createQCheckBoxWithWordWrap(this, colunas[1]);
+            vboxScrollIrreg->addWidget(checkItem);
+            checkBoxIrregList.append(checkItem);
         }
-        grupoAnt = listaGruposRoteiro[i];
-        QCheckBox *checkItem = createQCheckBoxWithWordWrap(this, listaIrregRoteiro[i]);
-        vboxScrollIrreg->addWidget(checkItem);
-        checkBoxIrregList.append(checkItem);
     }
+
+    arq.close();
 
     QSpacerItem *spacer = new QSpacerItem(20, 20, QSizePolicy::Expanding, QSizePolicy::Expanding);
     vboxScrollIrreg->addSpacerItem(spacer);

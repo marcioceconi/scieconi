@@ -1,150 +1,169 @@
-DOCUMENTAÇÃO|O Alvará Sanitário não está dentro do prazo de validade|
-DOCUMENTAÇÃO|A Autorização para Operação emitida pela CNEN não está dentro do prazo de validade|
-DOCUMENTAÇÃO|O Responsável Técnico não possui Termo de Responsabilidade Técnica assinado junto à Vigilância Sanitária|
-DOCUMENTAÇÃO|O Responsável Técnico Substituto não possui Termo de Responsabilidade Técnica assinado junto à Vigilância Sanitária|
-DOCUMENTAÇÃO|O Responsável Técnico não possui título de especialista emitido pelo CBR|
-DOCUMENTAÇÃO|O Responsável Técnico Substituto não possui título de especialista emitido pelo CBR|
-DOCUMENTAÇÃO|O Supervisor de Proteção Radiológica não possui Termo de Proteção Radiológica assinado junto à Vigilância Sanitária|
-DOCUMENTAÇÃO|O Supervisor de Proteção Radiológica Substituto não possui Termo de Proteção Radiológica assinado junto à Vigilância Sanitária|
-DOCUMENTAÇÃO|O Supervisor de Proteção Radiológica não é credenciado pela CNEN|
-DOCUMENTAÇÃO|O Supervisor de Proteção Radiológica Substituto não é credenciado pela CNEN|
-DOCUMENTAÇÃO|O Físico não é Especialista em Física Médica da Radioterapia|
-DOCUMENTAÇÃO|O serviço não possui Plano de Radioproteção|
-ASSENTAMENTOS|O serviço não possui implementado Programa de Garantia de Qualidade|
-ASSENTAMENTOS|O serviço não possui Contrato de Manutenção Preventiva e Corretiva dos equipamentos|
-ASSENTAMENTOS|O serviço não possui registro das manutenções realizadas nos equipamentos|
-ASSENTAMENTOS|O serviço não possui livro de registro de pacientes rubricado pela autoridade sanitária|
-ASSENTAMENTOS|O serviço não possui registros arquivados de dose dos indivíduos ocupacionalmente expostos|
-ASSENTAMENTOS|O serviço não possui registro anual de testes de fuga dos equipamentos|
-ASSENTAMENTOS|O serviço não possui registro de levantamento radiométrico das vizinhanças da sala de tratamento|
-ASSENTAMENTOS|O serviço não possui registro de levantamento radiométrico das vizinhanças da sala de armazenamento de fontes|
-ASSENTAMENTOS|O serviço não possui registro de levantamento radiométrico das vizinhanças da sala do simulador|
-ESTRUTURA FÍSICO-FUNCIONAL|O serviço não possui área de comando com acesso restrito|
-ESTRUTURA FÍSICO-FUNCIONAL|O serviço não possui sala de espera para pacientes e acompanhantes|
-ESTRUTURA FÍSICO-FUNCIONAL|O serviço não possui sala de confecção de moldes e máscaras|
-ESTRUTURA FÍSICO-FUNCIONAL|O serviço não possui sala de planejamento e física médica|
-ESTRUTURA FÍSICO-FUNCIONAL|O serviço não possui câmara para revelação de filmes|
-ESTRUTURA FÍSICO-FUNCIONAL|O serviço não possui sala de preparo e observação de pacientes|
-PROCEDIMENTOS|O Responsável Técnico ou Substituto não está presente durante todo o período de funcionamento|
-PROCEDIMENTOS|O Supervisor de Proteção Radiológica ou Substituto não está presente durante todo o período de funcionamento|
-PROCEDIMENTOS|O serviço não possui protocolos de planejamento escritos e disponíveis para todos os tipos de tratamento|
-PROCEDIMENTOS|O serviço não realiza conferência sistemática e dupla checagem de fichas de tratamento|
-PROCEDIMENTOS|O controle de procedimentos, previsto no Programa de Garantia de Qualidade, não é realizado anualmente|
-PROCEDIMENTOS|Os monitores individuais, quando fora de uso, não são guardados com o dosímetro padrão em local adequado|
-PROCEDIMENTOS|Ausência de monitoração individual de todos os profissionais ocupacionalmente expostos|
-PROCEDIMENTOS|O(s) profissional(is) ocupacionalmente exposto(s) não toma(m) ciência das doses mensais|
-PROCEDIMENTOS|Os profissionais envolvidos na limpeza, desinfecção e esterilização não executam o trabalho com a paramentação adequada|
-PROCEDIMENTOS|O serviço não dispõe de manual de procedimentos acessível para limpeza e desinfecção de aplicadores, acessórios e máscaras reutilizáveis|
-PROCEDIMENTOS|O serviço não possui um programa anual de reciclagem de conhecimentos para os técnicos|
-SALA DO ACELERADOR LINEAR - ESTRUTURA FÍSICO-FUNCIONAL|A porta da sala não possui o símbolo internacional de radiação ionizante|
-SALA DO ACELERADOR LINEAR - ESTRUTURA FÍSICO-FUNCIONAL|A porta com acesso permitido apenas para pessoas autorizadas não é sinalizada como "área restrita"|
-SALA DO ACELERADOR LINEAR - ESTRUTURA FÍSICO-FUNCIONAL|A lâmpada indicadora de funcionamento do equipamento sobre a porta não está funcionando|
-SALA DO ACELERADOR LINEAR - ESTRUTURA FÍSICO-FUNCIONAL|O dispositivo de segurança da porta (interloque) não está funcionando adequadamente|
-SALA DO ACELERADOR LINEAR - ESTRUTURA FÍSICO-FUNCIONAL|A sala não possui três fontes de laser com exatidão melhor ou igual a 2 mm|
-SALA DO ACELERADOR LINEAR - ESTRUTURA FÍSICO-FUNCIONAL|A sala não possui um sistema que possibilite a abertura manual da porta pelo lado interdo|
-SALA DO ACELERADOR LINEAR - ESTRUTURA FÍSICO-FUNCIONAL|O dispositivo de comunicação visual com o paciente não está funcionando|
-SALA DO ACELERADOR LINEAR - ESTRUTURA FÍSICO-FUNCIONAL|O dispositivo de comunicação oral com o paciente não está funcionando|
-SALA DO ACELERADOR LINEAR - ESTRUTURA FÍSICO-FUNCIONAL|As instruções e procedimentos para acidentes e emergências não estão afixadas próximos ao comando do equipamento|
-SALA DO ACELERADOR LINEAR - PROCEDIMENTOS|Os campos de tratamento em teleterapia não são colimados, com bandejas próprias de proteção para cada paciente|
-SALA DO ACELERADOR LINEAR - PROCEDIMENTOS|O serviço não possui sistema de planejamento computadorizado|
-SALA DO ACELERADOR LINEAR - PROCEDIMENTOS|As máscaras dos pacientes não estão bem acondicionada em prateleiras e em boas condições de higiene e organização|
-SALA DO ACELERADOR LINEAR - PROCEDIMENTOS|As máscaras reutilizáveis não são reduzidas às placas originais dentro de critérios de limpeza, desinfecção e esterilização|
-SALA DO ACELERADOR LINEAR - PROCEDIMENTOS|O serviço não possui câmara de ionização tipo dedal de 0,6 cm³, se possui acelerador linear sem elétrons, ou câmara de ionização de placas paralelas com volume sensível entre 0,05 e 0,5 cm³, se possui acelerador linear com elétrons|
-SALA DO ACELERADOR LINEAR - PROCEDIMENTOS|Não há evidências de que o controle do equipamento, previsto no Programa de Garantia de Qualidade, está sendo realizado com a frequência indicada|
-SALA DO ACELERADOR LINEAR - PROCEDIMENTOS|O serviço não anota, em livro próprio, os resultados do controle de qualidade do equipamento|
-SALA DO ACELERADOR LINEAR - PROCEDIMENTOS|O serviço não possui um protocolo escrito com a frequência e tolerância dos testes realizados|
-SALA DO ACELERADOR LINEAR - PROCEDIMENTOS|Não há registros da avaliação conclusiva dos resultados dos testes realizados|
-SALA DE COBALTO - ESTRUTURA FÍSICO-FUNCIONAL|A porta da sala não possui o símbolo internacional de radiação ionizante|
-SALA DE COBALTO - ESTRUTURA FÍSICO-FUNCIONAL|A porta com acesso permitido apenas para pessoas autorizadas não é sinalizada como "área restrita"|
-SALA DE COBALTO - ESTRUTURA FÍSICO-FUNCIONAL|A lâmpada indicadora de funcionamento do equipamento sobre a porta não está funcionando|
-SALA DE COBALTO - ESTRUTURA FÍSICO-FUNCIONAL|O dispositivo de segurança da porta (interloque) não está funcionando adequadamente|
-SALA DE COBALTO - ESTRUTURA FÍSICO-FUNCIONAL|A sala não possui três fontes de laser com exatidão melhor ou igual a 2 mm|
-SALA DE COBALTO - ESTRUTURA FÍSICO-FUNCIONAL|A sala não possui um sistema que possibilite a abertura manual da porta pelo lado interdo|
-SALA DE COBALTO - ESTRUTURA FÍSICO-FUNCIONAL|O dispositivo de comunicação visual com o paciente não está funcionando|
-SALA DE COBALTO - ESTRUTURA FÍSICO-FUNCIONAL|O dispositivo de comunicação oral com o paciente não está funcionando|
-SALA DE COBALTO - ESTRUTURA FÍSICO-FUNCIONAL|As instruções e procedimentos para acidentes e emergências não estão afixadas próximos ao comando do equipamento|
-SALA DE COBALTO - PROCEDIMENTOS|As máscaras próprias dos pacientes não estão bem acondicionadas, organizadas em prateleiras e em boas condições de higiene|
-SALA DE COBALTO - PROCEDIMENTOS|O equipamento de emergência (botão) para recolhimento da fonte não está em local de fácil acesso|
-SALA DE COBALTO - PROCEDIMENTOS|O serviço não possui câmara de ionização tipo dedal de 0,6 cm³ (padrão de referência ou padrão de trabalho)|
-SALA DE COBALTO - PROCEDIMENTOS|Não há evidências de que o controle do equipamento, previsto no Programa de Garantia de Qualidade, está sendo realizado com a frequência indicada|
-SALA DE COBALTO - PROCEDIMENTOS|O serviço não anota, em livro próprio, os resultados do controle de qualidade do equipamento|
-SALA DE COBALTO - PROCEDIMENTOS|O serviço não possui um protocolo escrito com a frequência e tolerância dos testes realizados|
-SALA DE COBALTO - PROCEDIMENTOS|Não há registros da avaliação conclusiva dos resultados dos testes realizados|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|A porta da sala não possui o símbolo internacional de radiação ionizante|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|A porta com acesso permitido apenas para pessoas autorizadas não é sinalizada como "área restrita"|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|A lâmpada indicadora de funcionamento do equipamento sobre a porta não está funcionando|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|O dispositivo de segurança da porta (interloque) não está funcionando adequadamente|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|A sala não possui três fontes de laser com exatidão melhor ou igual a 2 mm|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|A sala não possui um sistema que possibilite a abertura manual da porta pelo lado interdo|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|O dispositivo de comunicação visual com o paciente não está funcionando|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|O dispositivo de comunicação oral com o paciente não está funcionando|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|As instruções e procedimentos para acidentes e emergências não estão afixadas próximos ao comando do equipamento|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - PROCEDIMENTOS|Não existem procedimentos estabelecidos de higiene e desinfecção para os materiais usados na aplicação|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - PROCEDIMENTOS|O serviço não possui câmara de ionização tipo poço|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - PROCEDIMENTOS|O físico não está presente durante o funcionamento do equipamento|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - PROCEDIMENTOS|Não existem evidências de que o controle de equipamento, previsto no Programa de Garantia de Qualidade, seja realizado na frequência indicada|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - PROCEDIMENTOS|O serviço não anota, em livro próprio, os resultados do controle de qualidade do equipamento|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - PROCEDIMENTOS|O serviço não possui protocolo por escrito com a frequência e tolerância dos testes realizados|
-SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - PROCEDIMENTOS|Não há registros da avaliação conclusiva dos resultados dos testes realizados|
-SALA DE ORTOVOLTAGEM - ESTRUTURA FÍSICO-FUNCIONAL|A porta da sala não possui o símbolo internacional de radiação ionizante|
-SALA DE ORTOVOLTAGEM - ESTRUTURA FÍSICO-FUNCIONAL|A porta com acesso permitido apenas para pessoas autorizadas não é sinalizada como "área restrita"|
-SALA DE ORTOVOLTAGEM - ESTRUTURA FÍSICO-FUNCIONAL|A lâmpada indicadora de funcionamento do equipamento sobre a porta não está funcionando|
-SALA DE ORTOVOLTAGEM - ESTRUTURA FÍSICO-FUNCIONAL|O dispositivo de segurança da porta (interloque) não está funcionando adequadamente|
-SALA DE ORTOVOLTAGEM - ESTRUTURA FÍSICO-FUNCIONAL|A sala não possui três fontes de laser com exatidão melhor ou igual a 2 mm|
-SALA DE ORTOVOLTAGEM - ESTRUTURA FÍSICO-FUNCIONAL|A sala não possui um sistema que possibilite a abertura manual da porta pelo lado interdo|
-SALA DE ORTOVOLTAGEM - ESTRUTURA FÍSICO-FUNCIONAL|O dispositivo de comunicação visual com o paciente não está funcionando|
-SALA DE ORTOVOLTAGEM - ESTRUTURA FÍSICO-FUNCIONAL|O dispositivo de comunicação oral com o paciente não está funcionando|
-SALA DE ORTOVOLTAGEM - ESTRUTURA FÍSICO-FUNCIONAL|As instruções e procedimentos para acidentes e emergências não estão afixadas próximos ao comando do equipamento|
-SALA DE ORTOVOLTAGEM - PROCEDIMENTOS|As máscaras dos pacientes não estão bem acondicionadas e organizadas em prateleiras|
-SALA DE ORTOVOLTAGEM - PROCEDIMENTOS|As placas de chumbo para proteções de campos irradiados não são higienizadas para a reutilização|
-SALA DE ORTOVOLTAGEM - PROCEDIMENTOS|O serviço não possui câmara de ionização tipo dedal de 0,6 cm³ (padrão de referência) ou câmara de ionização de placas paralelas com volume sensível entre 0,05 e 0,5 cm³|
-SALA DE ORTOVOLTAGEM - PROCEDIMENTOS|Não existem evidências de que o controle do equipamento, previsto no Programa de Garantia de Qualidade, seja realizado na frequência indicada|
-SALA DE ORTOVOLTAGEM - PROCEDIMENTOS|O serviço não anota em livro próprio os resultados do controle de qualidade do equipamento|
-SALA DE ORTOVOLTAGEM - PROCEDIMENTOS|O serviço não possui protocolo por escrito com a frequência e tolerância dos testes realizados|
-SALA DE ORTOVOLTAGEM - PROCEDIMENTOS|Não há registros da avaliação conclusiva dos resultados dos testes realizados|
-SALA DE BETATERAPIA - ESTRUTURA FÍSICO-FUNCIONAL|A porta da sala não possui o símbolo internacional de radiação ionizante|
-SALA DE BETATERAPIA - ESTRUTURA FÍSICO-FUNCIONAL|A porta com acesso permitido apenas para pessoas autorizadas não é sinalizada como "área restrita"|
-SALA DE BETATERAPIA - ESTRUTURA FÍSICO-FUNCIONAL|As instruções e procedimentos para acidentes e emergências não estão afixados na sala|
-SALA DE BETATERAPIA - ESTRUTURA FÍSICO-FUNCIONAL|O serviço não mantém o armário das fontes trancado e sinalizado|
-SALA DE BETATERAPIA - PROCEDIMENTOS|Não existem procedimentos estabelecidos de higiene e desinfecção para os materiais usados na aplicação|
-SALA DE BETATERAPIA - PROCEDIMENTOS|Não existem evidências de que o controle de equipamento, previsto no Programa de Garantia de Qualidade, seja realizado na frequência indicada|
-SALA DE BETATERAPIA - PROCEDIMENTOS|As placas de chumbo para proteções de campos irradiados não são higienizadas para a reutilização|
-SALA DE BETATERAPIA - PROCEDIMENTOS|O serviço não anota em livro próprio os resultados do controle de qualidade do equipamento|
-SALA DE BETATERAPIA - PROCEDIMENTOS|O serviço não possui protocolo por escrito com a frequência e tolerância dos testes realizados|
-SALA DE BETATERAPIA - PROCEDIMENTOS|Não há registros da avaliação conclusiva dos resultados dos testes realizados|
-SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|A porta do quarto não possui o símbolo internacional de presença de radiação ionizante|
-SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|O serviço não possui um posto de enfermagem exclusivo para braquiterapia|
-SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|A sala de serviços não é exclusiva para braquiterapia|
-SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|A porta do quarto não possui acesso permitido apenas para pessoas autorizadas e é sinalizada como "área restrita"|
-SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|O serviço não mantém o cofre para armazenamento das fontes trancado e sinalizado|
-SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL|As instruções e procedimentos para acidentes e emergências não estão afixados próximos ao posto de enfermagem|
-SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - PROCEDIMENTOS|O armazenamento, manipulação e transporte das fontes não são executados por profissional treinado e autorizado pelo responsável pela radioproteção|
-SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - PROCEDIMENTOS|Não existem procedimentos estabelecidos de higiene e desinfecção para os materiais usados na aplicação|
-SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - PROCEDIMENTOS|O serviço não fornece orientações por escrito relativas às aplicações fornecidas ao pessoal de enfermagem e a eventuais acompanhantes|
-SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - PROCEDIMENTOS|O serviço não possui procedimento por escrito para a utilização das fontes|
-SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - PROCEDIMENTOS|Não existem evidências de que o controle de equipamento, previsto no Programa de Garantia de Qualidade, seja realizado na frequência indicada|
-SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - PROCEDIMENTOS|O serviço não anota em livro próprio os resultados do controle de qualidade do equipamento|
-SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - PROCEDIMENTOS|O serviço não possui protocolo por escrito com a frequência e tolerância dos testes realizados|
-SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - PROCEDIMENTOS|Não há registros da avaliação conclusiva dos resultados dos testes realizados|
-SALA DO SIMULADOR (EXCLUSIVA) - ESTRUTURA FÍSICO-FUNCIONAL|A porta da sala não possui o símbolo internacional de radiação ionizante|
-SALA DO SIMULADOR (EXCLUSIVA) - ESTRUTURA FÍSICO-FUNCIONAL|A porta com acesso permitido apenas para pessoas autorizadas não é sinalizada como "área restrita"|
-SALA DO SIMULADOR (EXCLUSIVA) - ESTRUTURA FÍSICO-FUNCIONAL|A lâmpada indicadora de funcionamento do equipamento sobre a porta não está funcionando|
-SALA DO SIMULADOR (EXCLUSIVA) - ESTRUTURA FÍSICO-FUNCIONAL|O dispositivo de segurança da porta (interloque) não está funcionando adequadamente|
-SALA DO SIMULADOR (EXCLUSIVA) - ESTRUTURA FÍSICO-FUNCIONAL|A sala não possui um sistema que possibilite a abertura manual da porta pelo lado interno|
-SALA DO SIMULADOR (EXCLUSIVA) - ESTRUTURA FÍSICO-FUNCIONAL|A sala não possui três fontes de laser com exatidão melhor ou igual a 2 mm|
-SALA DO SIMULADOR (EXCLUSIVA) - ESTRUTURA FÍSICO-FUNCIONAL|As instruções e procedimentos para acidentes e emergências não estão afixados próximos ao comando do equipamento|
-SALA DO SIMULADOR (EXCLUSIVA) - PROCEDIMENTOS|Os campos de tratamento não são colimados, com bandejas próprias de proteção para cada paciente|
-SALA DO SIMULADOR (EXCLUSIVA) - PROCEDIMENTOS|As máscaras dos pacientes não estão bem acondicionadas, em prateleiras, e em boas condições de higiene e organização|
-SALA DO SIMULADOR (EXCLUSIVA) - PROCEDIMENTOS|As máscaras reutilizáveis não são reduzidas às placas originais dentro de critérios de limpeza, desinfecção e esterilização|
-SALA DO SIMULADOR (EXCLUSIVA) - PROCEDIMENTOS|Não existem evidências de que o controle de equipamento, previsto no Programa de Garantia de Qualidade, seja realizado na frequência indicada|
-SALA DO SIMULADOR (EXCLUSIVA) - PROCEDIMENTOS|O serviço não anota em livro próprio os resultados do controle de qualidade do equipamento|
-SALA DO SIMULADOR (EXCLUSIVA) - PROCEDIMENTOS|O serviço não possui protocolo por escrito com a frequência e tolerância dos testes realizados|
-SALA DO SIMULADOR (EXCLUSIVA) - PROCEDIMENTOS|Não há registros da avaliação conclusiva dos resultados dos testes realizados|
-SEGURANÇA DO PACIENTE|O serviço não possui mecanismos para identificação correta do paciente|
-SEGURANÇA DO PACIENTE|Não há evidências que comprovam a correta identificação do paciente|
-SEGURANÇA DO PACIENTE|O serviço não possui mecanismos para a higienização correta e constante das mãos|
-SEGURANÇA DO PACIENTE|Não há evidências que comprovam a higienização correta e constante das mãos|
-SEGURANÇA DO PACIENTE|O serviço não possui mecanismos para a prevenção de quedas dos pacientes|
-SEGURANÇA DO PACIENTE|Não há evidências que comprovam a adoção de medidas para a prevenção de quedas dos pacientes|
-SEGURANÇA DO PACIENTE|O serviço não dispõe de mecanismos para estimular a participação do paciente na assistência prestada|
-SEGURANÇA DO PACIENTE|Não há evidências que comprovam a participação do paciente na assistência prestada|
+grupo|DOCUMENTAÇÃO
+item|O Alvará Sanitário não está dentro do prazo de validade|
+item|A Autorização para Operação emitida pela CNEN não está dentro do prazo de validade|
+item|O Responsável Técnico não possui Termo de Responsabilidade Técnica assinado junto à Vigilância Sanitária|
+item|O Responsável Técnico Substituto não possui Termo de Responsabilidade Técnica assinado junto à Vigilância Sanitária|
+item|O Responsável Técnico não possui título de especialista emitido pelo CBR|
+item|O Responsável Técnico Substituto não possui título de especialista emitido pelo CBR|
+item|O Supervisor de Proteção Radiológica não possui Termo de Proteção Radiológica assinado junto à Vigilância Sanitária|
+item|O Supervisor de Proteção Radiológica Substituto não possui Termo de Proteção Radiológica assinado junto à Vigilância Sanitária|
+item|O Supervisor de Proteção Radiológica não é credenciado pela CNEN|
+item|O Supervisor de Proteção Radiológica Substituto não é credenciado pela CNEN|
+item|O Físico não é Especialista em Física Médica da Radioterapia|
+item|O serviço não possui Plano de Radioproteção|
+grupo|ASSENTAMENTOS
+item|O serviço não possui implementado Programa de Garantia de Qualidade|
+item|O serviço não possui Contrato de Manutenção Preventiva e Corretiva dos equipamentos|
+item|O serviço não possui registro das manutenções realizadas nos equipamentos|
+item|O serviço não possui livro de registro de pacientes rubricado pela autoridade sanitária|
+item|O serviço não possui registros arquivados de dose dos indivíduos ocupacionalmente expostos|
+item|O serviço não possui registro anual de testes de fuga dos equipamentos|
+item|O serviço não possui registro de levantamento radiométrico das vizinhanças da sala de tratamento|
+item|O serviço não possui registro de levantamento radiométrico das vizinhanças da sala de armazenamento de fontes|
+item|O serviço não possui registro de levantamento radiométrico das vizinhanças da sala do simulador|
+grupo|ESTRUTURA FÍSICO-FUNCIONAL
+item|O serviço não possui área de comando com acesso restrito|
+item|O serviço não possui sala de espera para pacientes e acompanhantes|
+item|O serviço não possui sala de confecção de moldes e máscaras|
+item|O serviço não possui sala de planejamento e física médica|
+item|O serviço não possui câmara para revelação de filmes|
+item|O serviço não possui sala de preparo e observação de pacientes|
+grupo|PROCEDIMENTOS
+item|O Responsável Técnico ou Substituto não está presente durante todo o período de funcionamento|
+item|O Supervisor de Proteção Radiológica ou Substituto não está presente durante todo o período de funcionamento|
+item|O serviço não possui protocolos de planejamento escritos e disponíveis para todos os tipos de tratamento|
+item|O serviço não realiza conferência sistemática e dupla checagem de fichas de tratamento|
+item|O controle de procedimentos, previsto no Programa de Garantia de Qualidade, não é realizado anualmente|
+item|Os monitores individuais, quando fora de uso, não são guardados com o dosímetro padrão em local adequado|
+item|Ausência de monitoração individual de todos os profissionais ocupacionalmente expostos|
+item|O(s) profissional(is) ocupacionalmente exposto(s) não toma(m) ciência das doses mensais|
+item|Os profissionais envolvidos na limpeza, desinfecção e esterilização não executam o trabalho com a paramentação adequada|
+item|O serviço não dispõe de manual de procedimentos acessível para limpeza e desinfecção de aplicadores, acessórios e máscaras reutilizáveis|
+item|O serviço não possui um programa anual de reciclagem de conhecimentos para os técnicos|
+grupo|SALA DO ACELERADOR LINEAR - ESTRUTURA FÍSICO-FUNCIONAL
+item|A porta da sala não possui o símbolo internacional de radiação ionizante|
+item|A porta com acesso permitido apenas para pessoas autorizadas não é sinalizada como "área restrita"|
+item|A lâmpada indicadora de funcionamento do equipamento sobre a porta não está funcionando|
+item|O dispositivo de segurança da porta (interloque) não está funcionando adequadamente|
+item|A sala não possui três fontes de laser com exatidão melhor ou igual a 2 mm|
+item|A sala não possui um sistema que possibilite a abertura manual da porta pelo lado interdo|
+item|O dispositivo de comunicação visual com o paciente não está funcionando|
+item|O dispositivo de comunicação oral com o paciente não está funcionando|
+item|As instruções e procedimentos para acidentes e emergências não estão afixadas próximos ao comando do equipamento|
+grupo|SALA DO ACELERADOR LINEAR - PROCEDIMENTOS
+item|Os campos de tratamento em teleterapia não são colimados, com bandejas próprias de proteção para cada paciente|
+item|O serviço não possui sistema de planejamento computadorizado|
+item|As máscaras dos pacientes não estão bem acondicionada em prateleiras e em boas condições de higiene e organização|
+item|As máscaras reutilizáveis não são reduzidas às placas originais dentro de critérios de limpeza, desinfecção e esterilização|
+item|O serviço não possui câmara de ionização tipo dedal de 0,6 cm³, se possui acelerador linear sem elétrons, ou câmara de ionização de placas paralelas com volume sensível entre 0,05 e 0,5 cm³, se possui acelerador linear com elétrons|
+item|Não há evidências de que o controle do equipamento, previsto no Programa de Garantia de Qualidade, está sendo realizado com a frequência indicada|
+item|O serviço não anota, em livro próprio, os resultados do controle de qualidade do equipamento|
+item|O serviço não possui um protocolo escrito com a frequência e tolerância dos testes realizados|
+item|Não há registros da avaliação conclusiva dos resultados dos testes realizados|
+grupo|SALA DE COBALTO - ESTRUTURA FÍSICO-FUNCIONAL
+item|A porta da sala não possui o símbolo internacional de radiação ionizante|
+item|A porta com acesso permitido apenas para pessoas autorizadas não é sinalizada como "área restrita"|
+item|A lâmpada indicadora de funcionamento do equipamento sobre a porta não está funcionando|
+item|O dispositivo de segurança da porta (interloque) não está funcionando adequadamente|
+item|A sala não possui três fontes de laser com exatidão melhor ou igual a 2 mm|
+item|A sala não possui um sistema que possibilite a abertura manual da porta pelo lado interdo|
+item|O dispositivo de comunicação visual com o paciente não está funcionando|
+item|O dispositivo de comunicação oral com o paciente não está funcionando|
+item|As instruções e procedimentos para acidentes e emergências não estão afixadas próximos ao comando do equipamento|
+grupo|SALA DE COBALTO - PROCEDIMENTOS
+item|As máscaras próprias dos pacientes não estão bem acondicionadas, organizadas em prateleiras e em boas condições de higiene|
+item|O equipamento de emergência (botão) para recolhimento da fonte não está em local de fácil acesso|
+item|O serviço não possui câmara de ionização tipo dedal de 0,6 cm³ (padrão de referência ou padrão de trabalho)|
+item|Não há evidências de que o controle do equipamento, previsto no Programa de Garantia de Qualidade, está sendo realizado com a frequência indicada|
+item|O serviço não anota, em livro próprio, os resultados do controle de qualidade do equipamento|
+item|O serviço não possui um protocolo escrito com a frequência e tolerância dos testes realizados|
+item|Não há registros da avaliação conclusiva dos resultados dos testes realizados|
+grupo|SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL
+item|A porta da sala não possui o símbolo internacional de radiação ionizante|
+item|A porta com acesso permitido apenas para pessoas autorizadas não é sinalizada como "área restrita"|
+item|A lâmpada indicadora de funcionamento do equipamento sobre a porta não está funcionando|
+item|O dispositivo de segurança da porta (interloque) não está funcionando adequadamente|
+item|A sala não possui três fontes de laser com exatidão melhor ou igual a 2 mm|
+item|A sala não possui um sistema que possibilite a abertura manual da porta pelo lado interdo|
+item|O dispositivo de comunicação visual com o paciente não está funcionando|
+item|O dispositivo de comunicação oral com o paciente não está funcionando|
+item|As instruções e procedimentos para acidentes e emergências não estão afixadas próximos ao comando do equipamento|
+grupo|SALA DE BRAQUITERAPIA DE ALTA TAXA DE DOSE - PROCEDIMENTOS
+item|Não existem procedimentos estabelecidos de higiene e desinfecção para os materiais usados na aplicação|
+item|O serviço não possui câmara de ionização tipo poço|
+item|O físico não está presente durante o funcionamento do equipamento|
+item|Não existem evidências de que o controle de equipamento, previsto no Programa de Garantia de Qualidade, seja realizado na frequência indicada|
+item|O serviço não anota, em livro próprio, os resultados do controle de qualidade do equipamento|
+item|O serviço não possui protocolo por escrito com a frequência e tolerância dos testes realizados|
+item|Não há registros da avaliação conclusiva dos resultados dos testes realizados|
+grupo|SALA DE ORTOVOLTAGEM - ESTRUTURA FÍSICO-FUNCIONAL
+item|A porta da sala não possui o símbolo internacional de radiação ionizante|
+item|A porta com acesso permitido apenas para pessoas autorizadas não é sinalizada como "área restrita"|
+item|A lâmpada indicadora de funcionamento do equipamento sobre a porta não está funcionando|
+item|O dispositivo de segurança da porta (interloque) não está funcionando adequadamente|
+item|A sala não possui três fontes de laser com exatidão melhor ou igual a 2 mm|
+item|A sala não possui um sistema que possibilite a abertura manual da porta pelo lado interdo|
+item|O dispositivo de comunicação visual com o paciente não está funcionando|
+item|O dispositivo de comunicação oral com o paciente não está funcionando|
+item|As instruções e procedimentos para acidentes e emergências não estão afixadas próximos ao comando do equipamento|
+grupo|SALA DE ORTOVOLTAGEM - PROCEDIMENTOS
+item|As máscaras dos pacientes não estão bem acondicionadas e organizadas em prateleiras|
+item|As placas de chumbo para proteções de campos irradiados não são higienizadas para a reutilização|
+item|O serviço não possui câmara de ionização tipo dedal de 0,6 cm³ (padrão de referência) ou câmara de ionização de placas paralelas com volume sensível entre 0,05 e 0,5 cm³|
+item|Não existem evidências de que o controle do equipamento, previsto no Programa de Garantia de Qualidade, seja realizado na frequência indicada|
+item|O serviço não anota em livro próprio os resultados do controle de qualidade do equipamento|
+item|O serviço não possui protocolo por escrito com a frequência e tolerância dos testes realizados|
+item|Não há registros da avaliação conclusiva dos resultados dos testes realizados|
+grupo|SALA DE BETATERAPIA - ESTRUTURA FÍSICO-FUNCIONAL
+item|A porta da sala não possui o símbolo internacional de radiação ionizante|
+item|A porta com acesso permitido apenas para pessoas autorizadas não é sinalizada como "área restrita"|
+item|As instruções e procedimentos para acidentes e emergências não estão afixados na sala|
+item|O serviço não mantém o armário das fontes trancado e sinalizado|
+grupo|SALA DE BETATERAPIA - PROCEDIMENTOS
+item|Não existem procedimentos estabelecidos de higiene e desinfecção para os materiais usados na aplicação|
+item|Não existem evidências de que o controle de equipamento, previsto no Programa de Garantia de Qualidade, seja realizado na frequência indicada|
+item|As placas de chumbo para proteções de campos irradiados não são higienizadas para a reutilização|
+item|O serviço não anota em livro próprio os resultados do controle de qualidade do equipamento|
+item|O serviço não possui protocolo por escrito com a frequência e tolerância dos testes realizados|
+item|Não há registros da avaliação conclusiva dos resultados dos testes realizados|
+grupo|SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - ESTRUTURA FÍSICO-FUNCIONAL
+item|A porta do quarto não possui o símbolo internacional de presença de radiação ionizante|
+item|O serviço não possui um posto de enfermagem exclusivo para braquiterapia|
+item|A sala de serviços não é exclusiva para braquiterapia|
+item|A porta do quarto não possui acesso permitido apenas para pessoas autorizadas e é sinalizada como "área restrita"|
+item|O serviço não mantém o cofre para armazenamento das fontes trancado e sinalizado|
+item|As instruções e procedimentos para acidentes e emergências não estão afixados próximos ao posto de enfermagem|
+grupo|SALA DE BRAQUITERAPIA DE BAIXA TAXA DE DOSE - PROCEDIMENTOS
+item|O armazenamento, manipulação e transporte das fontes não são executados por profissional treinado e autorizado pelo responsável pela radioproteção|
+item|Não existem procedimentos estabelecidos de higiene e desinfecção para os materiais usados na aplicação|
+item|O serviço não fornece orientações por escrito relativas às aplicações fornecidas ao pessoal de enfermagem e a eventuais acompanhantes|
+item|O serviço não possui procedimento por escrito para a utilização das fontes|
+item|Não existem evidências de que o controle de equipamento, previsto no Programa de Garantia de Qualidade, seja realizado na frequência indicada|
+item|O serviço não anota em livro próprio os resultados do controle de qualidade do equipamento|
+item|O serviço não possui protocolo por escrito com a frequência e tolerância dos testes realizados|
+item|Não há registros da avaliação conclusiva dos resultados dos testes realizados|
+grupo|SALA DO SIMULADOR (EXCLUSIVA) - ESTRUTURA FÍSICO-FUNCIONAL
+item|A porta da sala não possui o símbolo internacional de radiação ionizante|
+item|A porta com acesso permitido apenas para pessoas autorizadas não é sinalizada como "área restrita"|
+item|A lâmpada indicadora de funcionamento do equipamento sobre a porta não está funcionando|
+item|O dispositivo de segurança da porta (interloque) não está funcionando adequadamente|
+item|A sala não possui um sistema que possibilite a abertura manual da porta pelo lado interno|
+item|A sala não possui três fontes de laser com exatidão melhor ou igual a 2 mm|
+item|As instruções e procedimentos para acidentes e emergências não estão afixados próximos ao comando do equipamento|
+grupo|SALA DO SIMULADOR (EXCLUSIVA) - PROCEDIMENTOS
+item|Os campos de tratamento não são colimados, com bandejas próprias de proteção para cada paciente|
+item|As máscaras dos pacientes não estão bem acondicionadas, em prateleiras, e em boas condições de higiene e organização|
+item|As máscaras reutilizáveis não são reduzidas às placas originais dentro de critérios de limpeza, desinfecção e esterilização|
+item|Não existem evidências de que o controle de equipamento, previsto no Programa de Garantia de Qualidade, seja realizado na frequência indicada|
+item|O serviço não anota em livro próprio os resultados do controle de qualidade do equipamento|
+item|O serviço não possui protocolo por escrito com a frequência e tolerância dos testes realizados|
+item|Não há registros da avaliação conclusiva dos resultados dos testes realizados|
+grupo|SEGURANÇA DO PACIENTE
+item|O serviço não possui mecanismos para identificação correta do paciente|
+item|Não há evidências que comprovam a correta identificação do paciente|
+item|O serviço não possui mecanismos para a higienização correta e constante das mãos|
+item|Não há evidências que comprovam a higienização correta e constante das mãos|
+item|O serviço não possui mecanismos para a prevenção de quedas dos pacientes|
+item|Não há evidências que comprovam a adoção de medidas para a prevenção de quedas dos pacientes|
+item|O serviço não dispõe de mecanismos para estimular a participação do paciente na assistência prestada|
+item|Não há evidências que comprovam a participação do paciente na assistência prestada|

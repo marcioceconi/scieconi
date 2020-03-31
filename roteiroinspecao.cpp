@@ -165,6 +165,13 @@ void RoteiroInspecao::salvarNovoRoteiro()
                     outFile << QString("%1;roteiros/%2.txt").arg(nomeArq).arg(nomeArqSemEspacos) << endl;
 
                     file.close();
+                    // Mensagem de Salvo com Sucesso
+                    QMessageBox mensagemBox;
+                    mensagemBox.setWindowTitle("Salvo com sucesso");
+                    mensagemBox.setWindowIcon(QIcon(":/imagens/hospital.png"));
+                    mensagemBox.setIconPixmap(QPixmap(":/imagens/alert.png").scaled(100, 80, Qt::AspectRatioMode::KeepAspectRatio, Qt::TransformationMode::SmoothTransformation));
+                    mensagemBox.setText(QString("Roteiro <FONT COLOR='#0C610C'><strong>%1</strong></FONT> salvo com sucesso!").arg(nomeArq));
+                    mensagemBox.exec();
                 } else {
                     QMessageBox mensagemBox;
                     mensagemBox.setWindowTitle("Atenção");
@@ -188,7 +195,7 @@ void RoteiroInspecao::salvarNovoRoteiro()
             mensagemBox.setWindowTitle("Atenção");
             mensagemBox.setWindowIcon(QIcon(":/imagens/alert.png"));
             mensagemBox.setIconPixmap(QPixmap(":/imagens/alert.png").scaled(100, 80, Qt::AspectRatioMode::KeepAspectRatio, Qt::TransformationMode::SmoothTransformation));
-            mensagemBox.setText(QString("<FONT COLOR='#ff0000'><strong>ATENÇÃO</strong></FONT>: Já existe um roteiro com este <FONT COLOR='#ff0000'><strong>Nome do Roteiro</strong></FONT>. Escolha outro <FONT COLOR='#ff0000'><strong>Nome do Roteiro</strong></FONT> ou exclua o roteiro antigo."));
+            mensagemBox.setText(QString("<FONT COLOR='#ff0000'><strong>ATENÇÃO</strong></FONT>: Já existe um roteiro com o nome <FONT COLOR='#ff0000'><strong>%1</strong></FONT>. Escolha outro <FONT COLOR='#ff0000'><strong>Nome do Roteiro</strong></FONT> ou exclua o roteiro antigo.").arg(nomeArq));
             mensagemBox.exec();
             return;
         }
